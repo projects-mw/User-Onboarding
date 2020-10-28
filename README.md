@@ -61,3 +61,10 @@ The following are stretch goals that you should attempt _after_ you meet MVP for
 ## Submission Format
 
 * [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
+
+## recordings
+
+[emily seibert](https://youtu.be/Awa4TsDfTgM)
+[dan frehner](https://youtu.be/LbSAJ2VDKpc)
+[jason maurer](https://youtu.be/oxpZNr5b2TU)
+[christina gorton](https://youtu.be/zXKdeFhaeJ4)
